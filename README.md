@@ -8,5 +8,5 @@ Project description: Soccer Stats is a website that allows users to search for s
 Our website will use a public soccer API to retrieve live information about soccer players and clubs.
 # Team Members
 - Jeremiah Israel - 
-- Group Member 2 - 
+- Se'An Holmes - 
 - Group Member 3 - 
