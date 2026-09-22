@@ -3,7 +3,9 @@ Project description: Soccer Stats is a website that allows users to search for s
 # Features
 - Search for soccer players
 - Search for soccer clubs
-- View player information and stats
+- View player information and stats(position,age,nationality,club)
+- Head-Head comparison between two players or clubs 
+- Filter search results by league or position
   # API
 Our website will use a public soccer API to retrieve live information about soccer players and clubs.
 # Team Members
