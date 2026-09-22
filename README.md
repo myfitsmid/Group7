@@ -9,4 +9,4 @@ Our website will use a public soccer API to retrieve live information about socc
 # Team Members
 - Jeremiah Israel - 
 - Se'An Holmes - 
-- Group Member 3 - 
+- Andrew cameron - 
